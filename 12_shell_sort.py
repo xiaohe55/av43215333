@@ -3,7 +3,9 @@
 @author:coyote
 @datetime:2019/3/3 11:26
 @file: 12_shell_sort.py
-@function:
+@function:希尔
+不稳定
+
 '''
 
 
@@ -24,3 +26,10 @@ def shell_sort(alist):
                     break
         # 缩短gap长
         gap //= 2
+
+
+if __name__ == '__main__':
+    li = [54, 26, 93, 17, 77, 31, 44, 55, 20]
+    print(li)
+    shell_sort(li)
+    print(li)

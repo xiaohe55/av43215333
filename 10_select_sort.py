@@ -4,6 +4,7 @@
 @datetime:2019/3/2 20:28
 @file: 10_select_sort.py
 @function:选择排序
+不稳定
 '''
 
 

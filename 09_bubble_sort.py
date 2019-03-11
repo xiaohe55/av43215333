@@ -4,6 +4,7 @@
 @datetime:2019/3/2 19:29
 @file: 09_bubble_sort.py
 @function:冒泡排序
+稳定
 '''
 
 

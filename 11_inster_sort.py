@@ -4,6 +4,7 @@
 @datetime:2019/3/2 20:53
 @file: 11_inster_sort.py
 @function:插入排序
+稳定
 '''
 
 
